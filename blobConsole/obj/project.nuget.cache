@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "leSyzBxyhw0Vq9yUs4+LuEwNiDbJfjrte9yBE+IBY/KOMWKjcqJkIKwJXtNTzoyOkMztN4ra1CZxWa/FrYCR6w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\azure\\AZ-204\\storage\\blobConsole\\blobConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manu2\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\azure.storage.common\\12.9.0\\azure.storage.common.12.9.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.fileextensions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.fileproviders.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0-rc.2.21480.5\\microsoft.extensions.fileproviders.physical.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0-rc.2.21480.5\\microsoft.extensions.filesystemglobbing.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-rc.2.21480.5\\microsoft.extensions.primitives.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-rc.2.21480.5\\system.runtime.compilerservices.unsafe.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\manu2\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
